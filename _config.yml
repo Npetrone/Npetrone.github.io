@@ -1,11 +1,11 @@
 # Site settings
 author: Nicholas Petrone
-title: 
+title: My time in FlatIron
 header-img: img/home-bg.png
 email: nickpetrone92@gmail.com
 copyright_name: Nicholas Petrone
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Coding Courses
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Npetrone
